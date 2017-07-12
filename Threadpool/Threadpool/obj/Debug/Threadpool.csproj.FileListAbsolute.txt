@@ -1,0 +1,5 @@
+D:\GitRepo\Threadpool-Repo\Threadpool\Threadpool\bin\Debug\Threadpool.exe.config
+D:\GitRepo\Threadpool-Repo\Threadpool\Threadpool\bin\Debug\Threadpool.exe
+D:\GitRepo\Threadpool-Repo\Threadpool\Threadpool\bin\Debug\Threadpool.pdb
+D:\GitRepo\Threadpool-Repo\Threadpool\Threadpool\obj\Debug\Threadpool.exe
+D:\GitRepo\Threadpool-Repo\Threadpool\Threadpool\obj\Debug\Threadpool.pdb
